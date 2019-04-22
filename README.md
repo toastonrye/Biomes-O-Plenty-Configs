@@ -1,7 +1,7 @@
 # Biomes-O-Plenty-Configs
 Contains the configs for generating a Biomes O Plenty world with minimal vanilla biome generation.
 
-World Type: Biomes O Plenty
+World Type: Biomes O Plenty \n
 Biome Size: Small
 Land Mass: Vanilla
 Temperature: Latitudinal
