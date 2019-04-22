@@ -1,5 +1,5 @@
 # Biomes-O-Plenty-Configs
-Contains the configs for generating a Biomes O Plenty world with minimal vanilla biome generation.
+Contains the configs for generating a Biomes O Plenty world with minimal vanilla biome generation. Drag and drop the config folder into your Minecraft directory. Choose 'Replace files in the destination'. Reboot Minecraft. Create a new world with World Type: Biomes O Plenty.
 
 World Type: Biomes O Plenty  
 Biome Size: Small  
