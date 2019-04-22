@@ -22,5 +22,6 @@ Mountain, Seasonal Forest, VANILLA-Roofed Forest, VANILLA-Forest, Orchard, Prair
 
 VANILLA-Jungle, Tropical Rainforest, Bamboo Forest, Overgrown Cliffs, Lush Desert, VANILLA-Savanna, VANILLA-Desert, VANILLA-Mesa, Outback
 
-Sub-Biomes:
+Sub-Biomes: 
+
 Pasture, Oasis, Tropical Island, Kelp Forest
