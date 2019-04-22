@@ -1,5 +1,7 @@
 # Biomes-O-Plenty-Configs
-Contains the configs for generating a Biomes O Plenty world with minimal vanilla biome generation. Drag and drop the config folder into your Minecraft directory. Choose 'Replace files in the destination'. Reboot Minecraft. Create a new world with World Type: Biomes O Plenty.
+Contains the configs for generating a Biomes O Plenty world with minimal vanilla biome generation. Also slightly tweaks some Nether biomes. See below. Drag and drop the config folder into your Minecraft directory. Choose 'Replace files in the destination'. Reboot Minecraft. Create a new world with World Type: Biomes O Plenty.  
+Github repository:  
+https://github.com/Rred26/Biomes-O-Plenty-Configs/  
 
 World Type: Biomes O Plenty  
 Biome Size: Small  
@@ -21,3 +23,8 @@ VANILLA-Jungle, Tropical Rainforest, Bamboo Forest, Overgrown Cliffs, Lush Deser
 
 Sub-Biomes:  
 Pasture, Oasis, Tropical Island, Kelp Forest
+
+Hell:  
+Corrupted Sands (reduced 4%)  
+Fungi Forest (reduced 2%)  
+Phantasmagoric Inferno, Undergarden, Visceral Heap (increased 2% each)
