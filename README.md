@@ -1,4 +1,7 @@
 # Biomes-O-Plenty-Configs
+
+# NOTE: I had to set the biome_ids.json file to READ ONLY because launching the game would overwrite my disabled biomes (-1) back to their default values.
+
 Contains the configs for generating a Biomes O Plenty world with minimal vanilla biome generation. Also slightly tweaks some Nether biomes. See below. Drag and drop the config folder into your Minecraft directory. Choose 'Replace files in the destination'. Reboot Minecraft. Create a new world with World Type: Biomes O Plenty.  
 Github repository:  
 https://github.com/Rred26/Biomes-O-Plenty-Configs/  
