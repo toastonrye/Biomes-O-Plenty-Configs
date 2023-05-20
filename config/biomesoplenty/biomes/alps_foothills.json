@@ -94,5 +94,8 @@
       "generators": {}
     }
   },
-  "weights": {}
+  "weights": {
+    "tundra": 2,
+    "ice_cap": 5
+  }
 }
