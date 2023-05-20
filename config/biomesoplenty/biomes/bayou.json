@@ -172,7 +172,7 @@
         }
       },
       "generationAttempts": 24,
-      "amountPerChunk": 3.0,
+      "amountPerChunk": 13.0,
       "maxHeight": 3,
       "enable": true,
       "randomDirection": false
@@ -265,6 +265,6 @@
     }
   },
   "weights": {
-    "hot_swamp": 10
+    "hot_swamp": 3
   }
 }
