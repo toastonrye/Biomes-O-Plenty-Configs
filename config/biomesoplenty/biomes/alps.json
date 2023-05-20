@@ -69,7 +69,7 @@
     }
   },
   "weights": {
-    "tundra": 3,
-    "ice_cap": 5
+    "tundra": 5,
+    "ice_cap": 20
   }
 }
