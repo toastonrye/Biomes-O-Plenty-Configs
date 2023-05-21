@@ -16,7 +16,6 @@
   "oasis": 97,
   "marsh": 67,
   "mangrove": 65,
-  "grove": 59,
   "steppe": 86,
   "bayou": 44,
   "orchard": 73,
@@ -72,4 +71,5 @@
   "rainforest": -1,
   "crag": -1,
   "brushland": -1,
+  "grove": -1,
 }
