@@ -317,7 +317,7 @@
     }
   },
   "weights": {
-    "wet_temperate": 7,
+    "wet_temperate": 10,
     "cold_swamp": 5
   }
 }
