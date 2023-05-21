@@ -95,5 +95,7 @@
       "enable": false
     }
   },
-  "weights": {}
+  "weights": {
+    "wasteland": 1
+  }
 }
