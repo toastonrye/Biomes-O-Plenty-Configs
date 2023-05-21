@@ -136,5 +136,7 @@
       "generators": {}
     }
   },
-  "weights": {}
+  "weights": {
+    "warm_temperate": 7
+  }
 }
