@@ -142,6 +142,6 @@
     }
   },
   "weights": {
-    "warm_temperate": 3
+    "warm_temperate": 10
   }
 }
