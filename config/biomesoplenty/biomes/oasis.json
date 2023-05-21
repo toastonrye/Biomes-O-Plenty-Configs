@@ -147,5 +147,8 @@
       "enable": false
     }
   },
-  "weights": {}
+  "weights": {
+    "hot_desert": 10,
+    "wasteland": 1
+  }
 }
